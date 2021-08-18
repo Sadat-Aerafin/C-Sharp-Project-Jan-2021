@@ -1,0 +1,20 @@
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\bin\Debug\Rooster_CO.exe.config
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\bin\Debug\Rooster_CO.exe
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\bin\Debug\Rooster_CO.pdb
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.csprojAssemblyReference.cache
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Add_User.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Form1.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Form2.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Payment.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Properties.Resources.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Stock_Entry.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Stock_List.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.Stock_Profit.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.User_List.resources
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.csproj.GenerateResource.cache
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.csproj.CoreCompileInputs.cache
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.exe
+C:\AIUB\c sharp\Rooster_CO\Rooster_CO\obj\Debug\Rooster_CO.pdb
+C:\Users\Sadat Aerafin\OneDrive\Documents\Rooster_CO - Copy\Rooster_CO\obj\Debug\Rooster_CO.csprojAssemblyReference.cache
+C:\Users\Sadat Aerafin\OneDrive\Documents\Rooster_CO - Copy\Rooster_CO\obj\Debug\Rooster_CO.exe
+C:\Users\Sadat Aerafin\OneDrive\Documents\Rooster_CO - Copy\Rooster_CO\obj\Debug\Rooster_CO.pdb
